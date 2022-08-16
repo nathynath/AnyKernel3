@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Celesteria Kernel by nathynath @ telegram
+kernel.string=Celesteria Kernel by nathynath
 do.devicecheck=1
 do.modules=0
 do.systemless=1
