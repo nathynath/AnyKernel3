@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Celesteria Kernel by nathynath
+kernel.string=Katzlein Kernel by nathclown
 do.devicecheck=1
 do.modules=0
 do.systemless=1
